@@ -1,0 +1,8 @@
+"*":
+  core:
+    telemetryConsent: "limited"
+  editor:
+    fontSize: 12
+  "exception-reporting":
+    userId: "a642e8dd-3b90-afe8-75a9-79871a317d4f"
+  "language-idris": {}
