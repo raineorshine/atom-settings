@@ -1,5 +1,8 @@
 "*":
   core:
+    disabledPackages: [
+      "wrap-guide"
+    ]
     telemetryConsent: "limited"
   editor:
     fontSize: 12
